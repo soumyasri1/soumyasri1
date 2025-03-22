@@ -37,6 +37,8 @@
 
 ---
 
+📜 Check out my resume: [View Resume](https://drive.google.com/file/d/1myiW2skRpgVCRfM0zZz9OLSr_iYdn5mQ/view)
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=soumyasri1&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
