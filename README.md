@@ -37,7 +37,6 @@
 
 ---
 
-📜 Check out my resume: [View Resume](https://drive.google.com/file/d/1myiW2skRpgVCRfM0zZz9OLSr_iYdn5mQ/view)
 
 ### 📊 GitHub Stats
 <p align="center">
