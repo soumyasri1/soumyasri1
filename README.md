@@ -11,7 +11,6 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working at **[Schoollog](https://schoollog.in/)** as a **Full-Stack Developer**.
 - 🌱 I’m constantly learning and exploring new technologies.
 - 💬 Ask me about **Next.js, NestJS, React, Node.js, JavaScript, TypeScript, and more!**
 - 📫 How to reach me: **soumyasri2245@gmail.com**
